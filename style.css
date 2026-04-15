@@ -23,3 +23,7 @@ header {
   padding: 1.6rem 10vw;
   color: white;
 }
+
+header a:link {
+  color: white;
+}
