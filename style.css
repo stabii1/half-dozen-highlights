@@ -30,9 +30,8 @@ header a:link {
 
 .container {
   height: 500px;
-  width: auto;
-  margin: auto;
-  border-radius: 20px;
+  width: 100%;
+  margin-bottom: 20px;
   text-align: flex-start;
 }
 
