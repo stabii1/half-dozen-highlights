@@ -28,6 +28,14 @@ header a:link {
   color: white;
 }
 
+.container {
+  height: 500px;
+  width: auto;
+  margin: auto;
+  border-radius: 20px;
+  text-align: flex-start;
+}
+
 h1 {
   font-family: "Arvo", serif;
   font-weight: 700;
