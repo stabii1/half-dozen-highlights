@@ -22,11 +22,17 @@ header {
   justify-content: flex-end;
   padding: 1.6rem 10vw;
   color: white;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 header a:link {
   color: white;
 }
+
+header a:visited
 
 .container {
   height: 500px;
