@@ -16,7 +16,7 @@ html {
 }
 
 header {
-  background-color: #f6aa5f;
+  background-color: #c36639;
   display: flex;
   align-items: center;
   justify-content: flex-end;
@@ -137,7 +137,7 @@ p {
   footer {
   text-align: center;
   height: 28px;
-  background-color: #f6aa5f;
+  background-color: #c36639;
   padding: 24px 0 24px 0;
   font-size: 75%;
 }
