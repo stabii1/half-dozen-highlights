@@ -65,8 +65,13 @@ h2 {
   text-align: flex-start;
 }
 
+
 .introduction {
   margin-bottom: 2em;
+}
+
+.introduction h2 {
+  font-weight: 125%;
 }
 
 .animales-container {
