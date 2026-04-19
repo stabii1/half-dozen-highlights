@@ -28,11 +28,26 @@ header {
   font-style: normal;
 }
 
-header a:link {
+footer {
+  justify-content: center;
+  font-size: 75%;
+}
+
+header, footer a:link {
   color: white;
 }
 
-header a:visited
+header, footer a:visited {
+  color: 
+}
+
+header, footer a:hover {
+  color: 
+}
+
+header, footer a:active {
+  color: 
+}
 
 .container {
   height: 500px;
