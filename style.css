@@ -28,19 +28,39 @@ header {
   font-style: normal;
 }
 
-header, footer a:link {
+header a:link {
   color: white;
 }
 
-header, footer a:visited {
+header a:visited {
   color: #bcd7d8;
 }
 
-header, footer a:hover {
+header a:hover {
   color: #a4def9;
 }
 
-header, footer a:active {
+header a:active {
+  color: #fbbcb7;
+}
+
+header a:link {
+  color: white;
+}
+
+footer a:link {
+  color: white;
+}
+
+footer a:visited {
+  color: #bcd7d8;
+}
+
+footer a:hover {
+  color: #a4def9;
+}
+
+footer a:active {
   color: #fbbcb7;
 }
 
