@@ -28,19 +28,19 @@ header {
   font-style: normal;
 }
 
-header a:link {
+nav a:link {
   color: white;
 }
 
-header a:visited {
+nav a:visited {
   color: #bcd7d8;
 }
 
-header a:hover {
+nav a:hover {
   color: #a4def9;
 }
 
-header a:active {
+nav a:active {
   color: #fbbcb7;
 }
 
